@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv-*/
+*.egg-info/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+
+# Clawdbot local state
+.clawdbot/
+memory/
+canvas/
+
+# SQLite
+*.sqlite3
+
+# Secrets
+.env
+.env.*
